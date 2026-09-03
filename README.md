@@ -181,11 +181,11 @@ A digital tools platform deployed on the web. Showcases deployment workflow and 
 
 | 🏆 Certification / Degree | 🏫 Institution | 📊 Grade |
 |---|---|---|
-| Complete Web Dev — MERN Stack | Programming Hero | ⭐ **GPA 4.00** |
-| Android App Dev (Java) | Bongo Academy | ⭐ **GPA 4.00** |
-| Android App Dev (Kotlin) | Touhidapps | ⭐ **GPA 4.00** |
-| Internet of Things (IoT) | Bongo Academy | ⭐ **GPA 4.00** |
-| Diploma in Electronics Engineering | Dhaka Polytechnic Institute | ⭐ **GPA 3.43** |
+| Complete Web Dev — MERN Stack | Programming Hero |
+| Android App Dev (Java) | Bongo Academy |
+| Android App Dev (Kotlin) | Touhidapps |
+| Internet of Things (IoT) | Bongo Academy |
+| Diploma in Electronics Engineering | Dhaka Polytechnic Institute | ⭐ **CGPA 3.43** |
 | SSC — Science | Kaoraid Kali Narayan High School | ⭐ **GPA 4.72** |
 
 ---
